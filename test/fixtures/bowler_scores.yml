@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Bowler: one
+  Team: one
+  Score: 1
+  Handicap: 1
+  Game: one
+
+two:
+  Bowler: two
+  Team: two
+  Score: 1
+  Handicap: 1
+  Game: two

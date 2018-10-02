@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: MyString
+  Location: MyString
+  Num_Lanes: 1
+  PositionRounds: 1
+  BowlersPerTeam: 1
+
+two:
+  Name: MyString
+  Location: MyString
+  Num_Lanes: 1
+  PositionRounds: 1
+  BowlersPerTeam: 1

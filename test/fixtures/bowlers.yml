@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: MyString
+  CurrentHandicap: 1
+  CurrentAverage: 1
+  Team: one
+  League: one
+
+two:
+  Name: MyString
+  CurrentHandicap: 1
+  CurrentAverage: 1
+  Team: two
+  League: two

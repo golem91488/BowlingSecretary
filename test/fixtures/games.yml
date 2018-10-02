@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Week: 1
+  Team1_Team: one
+  Team2_Team: one
+  LaneSet: 1
+  IsProcessed: 
+  IsPositionRound: 
+
+two:
+  Week: 1
+  Team1_Team: two
+  Team2_Team: two
+  LaneSet: 1
+  IsProcessed: 
+  IsPositionRound: 
